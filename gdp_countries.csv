@@ -1,0 +1,173 @@
+country_name,gdp,noc
+united states,21427,USA
+china,14092,CHN
+japan,5082,JPN
+germany,3845,GER
+india,2875,IND
+united kingdom,2827,GBR
+france,2718,FRA
+italy,1943,ITA
+brazil,1868,BRA
+canada,1737,CAN
+russia,1683,OAR
+south korea,1693,KOR
+australia,1394,AUS
+spain,1317,ESP
+mexico,1259,MEX
+indonesia,1155,INA
+netherlands,995,NED
+saudi arabia,792,KSA
+turkey,761,TUR
+switzerland,703,SUI
+taiwan,586,TPE
+sweden,551,SWE
+poland,595,POL
+belgium,529,BEL
+thailand,517,THA
+argentina,449,ARG
+iran,454,IRI
+austria,446,AUT
+norway,403,NOR
+united arab emirates,421,UAE
+south africa,369,RSA
+nigeria,397,NGR
+israel,369,ISR
+ireland,385,IRL
+hong kong,366,#N/A
+denmark,354,DEN
+malaysia,354,MAS
+singapore,349,SGP
+colombia,327,COL
+philippines,331,PHI
+pakistan,278,PAK
+finland,276,FIN
+chile,298,CHI
+egypt,303,EGY
+greece,218,GRE
+czech republic,244,CZE
+vietnam,261,VIE
+portugal,237,POR
+romania,250,ROU
+peru,220,PER
+iraq,251,IRQ
+new zealand,206,NZL
+algeria,180,ALG
+qatar,184,QAT
+hungary,170,HUN
+kazakhstan,180,KAZ
+ukraine,153,UKR
+morocco,119,MAR
+ecuador,110,ECU
+angola,106,#N/A
+oman,79,#N/A
+slovakia,106,SVK
+puerto rico,104,PUR
+cuba,100,CUB
+ghana,67,GHA
+belarus,59,BLR
+sri lanka,84,SRI
+dominican republic,87,DOM
+guatemala,81,GUA
+azerbaijan,47,AZE
+myanmar,71,#N/A
+luxembourg,70,LUX
+kenya,95,KEN
+uruguay,56,URU
+panama,66,PAN
+ethiopia,96,ETH
+costa rica,61,CRC
+tanzania,61,TAN
+lebanon,60,LBN
+serbia,51,SRB
+bulgaria,67,BUL
+croatia,60,CRO
+macau,55,#N/A
+slovenia,56,SLO
+lithuania,54,LTU
+ghana,67,GHA
+belarus,59,BLR
+sri lanka,84,SRI
+dominican republic,87,DOM
+guatemala,81,GUA
+azerbaijan,47,AZE
+myanmar,71,#N/A
+luxembourg,70,LUX
+kenya,95,KEN
+uruguay,56,URU
+panama,66,PAN
+ethiopia,96,ETH
+costa rica,61,CRC
+tanzania,61,TAN
+lebanon,60,LBN
+serbia,51,SRB
+bulgaria,67,BUL
+croatia,60,CRO
+macau,55,#N/A
+slovenia,56,SLO
+lithuania,54,LTU
+nepal,36,#N/A
+turkmenistan,40,TKM
+jordan,45,JOR
+el salvador,27,#N/A
+north korea,28,PRK
+democratic republic of the congo,47,#N/A
+cameroon,38,CMR
+bahrain,38,BRN
+paraguay,40,PAR
+bolivia,40,#N/A
+laos,18,#N/A
+uganda,28,UGA
+afghanistan,20,AFG
+zambia,23,ZAM
+yemen,27,#N/A
+libya,50,#N/A
+botswana,18,BOT
+madagascar,12,#N/A
+mozambique,14,MOZ
+latvia,34,LAT
+honduras,24,#N/A
+estonia,30,EST
+niger,13,NIG
+papua new guinea,24,#N/A
+mali,18,#N/A
+bosnia and herzegovina,19,#N/A
+gabon,14,GAB
+iceland,25,ISL
+namibia,14,NAM
+brunei,12,#N/A
+chad,11,#N/A
+mauritius,14,MRI
+congo,11,#N/A
+malta,14,#N/A
+suriname,3,SUR
+equatorial guinea,14,#N/A
+burkina faso,15,BUR
+benin,10,#N/A
+eswatini,5,#N/A
+sierra leone,4,#N/A
+togo,6,TOG
+guyana,4,GUY
+lesotho,3,#N/A
+liberia,3,#N/A
+central african republic,2,#N/A
+barbados,5,BAR
+cabo verde,2,#N/A
+seychelles,1,#N/A
+bhutan,2,#N/A
+antigua and barbuda,2,#N/A
+saint lucia,2,#N/A
+saint vincent and the grenadines,1,#N/A
+grenada,1,GRN
+solomon islands,1,#N/A
+samoa,0.8,SAM
+saint kitts and nevis,0.9,#N/A
+vanuatu,0.9,#N/A
+comoros,1,#N/A
+dominica,0.5,#N/A
+tonga,0.5,TGA
+micronesia,0.4,#N/A
+palau,0.3,#N/A
+marshall islands,0.2,#N/A
+kiribati,0.2,#N/A
+tuvalu,0.04,#N/A
+nauru,0.1,#N/A
